@@ -1,0 +1,24 @@
+def bubble_sort(n):
+    size = len(n)
+    for i in range (size-1):
+        swapped = False
+        for j in range(size-1-i):
+            if n[j] > n[j+1]:
+                temp = n[j]
+                n[j] = n[j+1]
+                n[j+1] = temp
+                swapped = True
+                
+        if not swapped:
+            break
+    return n
+if __name__ == '__main__' :
+      n = ["emily","chioma","james","jerome","mathew"]
+      x = bubble_sort(n)
+      #print(x)
+      n = [24,-1,-2,16,2,0]
+      y = bubble_sort(n)
+      #print(y)
+      n = [5,3,16,4,12,2]
+      z= bubble_sort(n)
+      print(x,y,z)
