@@ -6,6 +6,8 @@ def bubble_sort(n):
     size = len(n)
     for i in range (size-1):
         swapped = False
+        # i implemented swapped variable after the outer for loop as a check for edge cases 
+        # where the list is sorted.the outer for loop will iterate only once and produce output.
         for j in range(size-1-i):
             if n[j] > n[j+1]:
                 temp = n[j]
