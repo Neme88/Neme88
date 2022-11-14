@@ -1,4 +1,8 @@
 def bubble_sort(n):
+    """
+    this program takes unsorted list of integers or strings as input 
+    and produce sorted list as output
+    """
     size = len(n)
     for i in range (size-1):
         swapped = False
