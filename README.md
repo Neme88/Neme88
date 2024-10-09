@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! I'm a passionate software engineer who loves working on innovative projects and contributing to open source.
 
-- 🔭 I’m currently working on: **Learning Management Service (LMS).(Still in the planning and analysis phase of SDLC )**.
+- 🔭 I’m currently working on: **Learning Management System (LMS).(Still in the planning and analysis phase of SDLC )**.
 - 🌱 I’m currently learning: **Terraform**.
 - 👯 I’m looking to collaborate on **Open-source AI projects**.
 - 💬 Ask me about **AWS Well Architected Framework**.
@@ -19,7 +19,7 @@ Welcome to my GitHub profile! I'm a passionate software engineer who loves worki
 
 ## 🚀 Notable Projects
 
-- **Interswitch (https://skillbase.interswitchgroup.com/)**: Hard Skill based Learning management service.
+- **Interswitch (https://skillbase.interswitchgroup.com/)**: Hard Skill based Learning management system.
 - **Replify (https://resplify.com/)**: Perfect Resume and cover letter crafting service.
 
 ## 🏆 Achievements & Certifications
