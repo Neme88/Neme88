@@ -1,4 +1,4 @@
-# Hi there 👋, I'm [Chinemerem .C. Nwaka]!
+# Hi there 👋, I'm Chinemerem .C. Nwaka!
 
 Welcome to my GitHub profile! I'm a passionate software engineer who loves working on innovative projects and contributing to open source.
 
@@ -18,17 +18,15 @@ Welcome to my GitHub profile! I'm a passionate software engineer who loves worki
 
 ## 🚀 Notable Projects
 
-- **Interswitch (https://skillbase.interswitchgroup.com/)**: Short description about what the project does.
+- **Interswitch (https://skillbase.interswitchgroup.com/)**: Skill based LMS.
 - **Replify (https://resplify.com/)**: Perfect Resume and cover letter crafting service.
 
 ## 🏆 Achievements & Certifications
 
-- Certified in [Certification Name].
-- [Award Name], awarded by [Organization].
-
+- Certified in AWS (BCP).
 ---
 
 ### Get In Touch!
 - [LinkedIn](https://www.linkedin.com/in/Neme88/)
-- .[X](https://x.com/Neme_88)
-- .[Medium](https://medium.com/@Neme88)
+- [X](https://x.com/Neme_88)
+- [Medium](https://medium.com/@Neme88)
