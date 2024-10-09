@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a passionate software engineer who loves worki
 
 - 🔭 I’m currently working on: **Learning Management Service (LMS).(Still in the planning and analysis phase of SDLC )**.
 - 🌱 I’m currently learning: **Terraform**.
-- 👯 I’m looking to collaborate on **[Open-source projects]**.
+- 👯 I’m looking to collaborate on **Open-source AI projects**.
 - 💬 Ask me about **AWS Well Architected Framework**.
 - 📫 How to reach me: **ccnwaka1988@gmail.com** | [LinkedIn](https://www.linkedin.com/in/Neme88/) | [X](https://x.com/Neme_88)
 - ⚡ Fun fact: **I enjoy Greek mythology**.
@@ -15,10 +15,11 @@ Welcome to my GitHub profile! I'm a passionate software engineer who loves worki
 - **Backend:** Node.js, Python, Django, Flask, C#, ASP.NET Core
 - **Databases:** MySQL, MongoDB, PostGreSQL
 - **Tools:** Git, Docker, Jenkins
+- **Cloud:** AWS, Azure 
 
 ## 🚀 Notable Projects
 
-- **Interswitch (https://skillbase.interswitchgroup.com/)**: Skill based LMS.
+- **Interswitch (https://skillbase.interswitchgroup.com/)**: Hard Skill based Learning management service.
 - **Replify (https://resplify.com/)**: Perfect Resume and cover letter crafting service.
 
 ## 🏆 Achievements & Certifications
