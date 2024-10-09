@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm a passionate software engineer who loves worki
 - 👯 I’m looking to collaborate on **Open-source AI projects**.
 - 💬 Ask me about **AWS Well Architected Framework**.
 - 📫 How to reach me: **ccnwaka1988@gmail.com** | [LinkedIn](https://www.linkedin.com/in/Neme88/) | [X](https://x.com/Neme_88)
-- ⚡ Fun fact: ** I code better between 11:pm - 2:am and I enjoy Greek mythology**.
+- ⚡ Fun fact: **I code better between 10:pm - 2:am and I enjoy Greek mythology**.
 
 ## 🛠️ Skills & Technologies
 
