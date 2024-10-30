@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Chinemerem .C. Nwaka!
+# Hi there 👋, I'm Chinemerem .C. Nwaka
 
 Welcome to my GitHub profile! I'm a passionate software engineer who loves working on innovative projects and contributing to open source.
 
