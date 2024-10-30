@@ -6,16 +6,16 @@ Welcome to my GitHub profile! I'm a passionate software engineer who loves worki
 - 🌱 I’m currently learning: **Terraform**.
 - 👯 I’m looking to collaborate on **Open-source AI projects**.
 - 💬 Ask me about **AWS Well Architected Framework**.
-- 📫 How to reach me: **ccnwaka1988@gmail.com** | [LinkedIn](https://www.linkedin.com/in/Neme88/) | [X](https://x.com/Neme_88)
+- 📫 How to reach me: **neme88@softwaredevs.net** | [LinkedIn](https://www.linkedin.com/in/Neme88/) | [X](https://x.com/Neme_88)
 - ⚡ Fun fact: **I code better between 10:pm - 2:am, When I'm not Coding I enjoy reading Igbo and Greek mythology**.
 
 ## 🛠️ Skills & Technologies
 
-- **Frontend:** HTML, CSS, JavaScript, React, Angular, Vue.js
-- **Backend:** Node.js, Python, Django, Flask, C#, ASP.NET Core
+- **Frontend:** HTML, CSS, JavaScript, React.
+- **Backend:** Python, Django, Flask, Node.js, Express.js.
 - **Databases:** MySQL, MongoDB, PostGreSQL
-- **Tools:** Git, Docker, Jenkins
-- **Cloud:** AWS, Azure 
+- **Tools:** Git, Docker, Jenkins, Terraform, Bash.
+- **Cloud:** AWS.
 
 ## 🚀 Notable Projects
 
