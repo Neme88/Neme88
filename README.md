@@ -3,7 +3,7 @@
 Welcome to my GitHub profile! I'm a passionate software engineer who loves working on innovative projects and contributing to open source.
 
 - 🔭 I’m currently working on: **Learning Management System (LMS).(Still in the planning and analysis phase of SDLC )**.
-- 🌱 I’m currently learning: **Terraform**.
+- 🌱 I’m currently learning: **Docker**.
 - 👯 I’m looking to collaborate on **Open-source AI projects**.
 - 💬 Ask me about **AWS Well Architected Framework**.
 - 📫 How to reach me: **neme88nwaka@gmail.com** | [LinkedIn](https://www.linkedin.com/in/Neme88/) | [X](https://x.com/Neme_88)
@@ -13,9 +13,9 @@ Welcome to my GitHub profile! I'm a passionate software engineer who loves worki
 
 - **Frontend:** HTML, CSS, JavaScript.
 - **Backend:** Python, Django, Flask.
-- **Databases:** MongoDB, PostGreSQL
-- **Tools:** Git, Docker, Jenkins, Terraform, Bash.
-- **Cloud:** AWS.
+- **Databases:** MongoDB, PostGreSQL.
+- **Tools:** Git, GitHub, Docker, Bash.
+- **Cloud:** AWS(S3, EC2, RDS, DynamoDB).
 
 ## 🚀 Notable Projects
 
