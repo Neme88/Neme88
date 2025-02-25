@@ -11,9 +11,9 @@ Welcome to my GitHub profile! I'm a passionate software engineer who loves worki
 
 ## 🛠️ Skills & Technologies
 
-- **Frontend:** HTML, CSS, JavaScript, React.
-- **Backend:** Python, Django, Flask, Node.js, Express.js.
-- **Databases:** MySQL, MongoDB, PostGreSQL
+- **Frontend:** HTML, CSS, JavaScript.
+- **Backend:** Python, Django, Flask.
+- **Databases:** MongoDB, PostGreSQL
 - **Tools:** Git, Docker, Jenkins, Terraform, Bash.
 - **Cloud:** AWS.
 
