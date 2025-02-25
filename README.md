@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! I'm a passionate software engineer who loves working on innovative projects and contributing to open source.
 
-- 🔭 I’m currently working on: **Learning Management System (LMS).(Still in the planning and analysis phase of SDLC )**.
+- 🔭 I’m currently working on: **Learning Management System (LMS).(done with the planning and analysis phase, now on the design phase of the SDLC )**.
 - 🌱 I’m currently learning: **Docker**.
 - 👯 I’m looking to collaborate on **Open-source AI projects**.
 - 💬 Ask me about **AWS Well Architected Framework**.
